@@ -9,7 +9,7 @@ Funciona sin internet: todo se guarda en el dispositivo y se sincroniza con tu n
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/Sampere012/shopup-apk/main/releases/shopup-panel.apk">
-    <img src="https://img.shields.io/badge/descargar%20APK-0.6.11-8B5CF6?style=for-the-badge&logo=android&logoColor=white" alt="Descargar APK 0.6.11">
+    <img src="https://img.shields.io/badge/descargar%20APK-%C3%BAltima%20versi%C3%B3n-8B5CF6?style=for-the-badge&logo=android&logoColor=white" alt="Descargar la última APK">
   </a>
 </p>
 
@@ -36,12 +36,7 @@ Requisitos: **Android 7.0 o superior** · paquete `com.shopup.panel` · ~82 MB l
 
 ## Actualizaciones
 
-La propia app detecta cuando sale una versión nueva y te guía para instalarla. También puedes volver aquí en cualquier momento: **este enlace siempre sirve la última APK publicada**.
-
-| | |
-|---|---|
-| Versión actual | **0.6.11** (build 611) |
-| Publicada | 19 de octubre de 2026 |
+La propia app detecta cuando sale una versión nueva y te guía para instalarla. También puedes volver aquí en cualquier momento: **este enlace siempre sirve la última APK publicada**, sin necesidad de cuenta ni registro.
 
 ## Sobre este repositorio
 
